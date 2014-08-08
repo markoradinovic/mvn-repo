@@ -1,4 +1,0 @@
-mvn-repo
-========
-
-Maven repository

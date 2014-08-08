@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.vaadin.spring</groupId>
+  <artifactId>spring-vaadin-mvp</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140808131952</lastUpdated>
+  </versioning>
+</metadata>
