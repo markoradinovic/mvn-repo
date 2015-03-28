@@ -3,10 +3,10 @@
   <groupId>pl.koziolekweb</groupId>
   <artifactId>FontAwesomeRenderer</artifactId>
   <versioning>
-    <release>0.1</release>
+    <release>0.1.1</release>
     <versions>
-      <version>0.1</version>
+      <version>0.1.1</version>
     </versions>
-    <lastUpdated>20150323132658</lastUpdated>
+    <lastUpdated>20150328135632</lastUpdated>
   </versioning>
 </metadata>
